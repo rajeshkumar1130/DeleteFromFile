@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteFromFile", "CapitaTest\DeleteFromFile.csproj", "{EF7EBBE8-61D7-43DE-8FF8-EB09243028E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteFromFile", "DeleteFromFile\DeleteFromFile.csproj", "{EF7EBBE8-61D7-43DE-8FF8-EB09243028E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
