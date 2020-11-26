@@ -11,3 +11,16 @@ C:\Users\A542619\Source\Repos\CapitaTest\CapitaTest\obj\Debug\netcoreapp3.1\Dele
 C:\Users\A542619\Source\Repos\CapitaTest\CapitaTest\obj\Debug\netcoreapp3.1\DeleteFromFile.dll
 C:\Users\A542619\Source\Repos\CapitaTest\CapitaTest\obj\Debug\netcoreapp3.1\DeleteFromFile.pdb
 C:\Users\A542619\Source\Repos\CapitaTest\CapitaTest\obj\Debug\netcoreapp3.1\DeleteFromFile.genruntimeconfig.cache
+C:\Rajesh\DeleteFromFile\DeleteFromFile\bin\Debug\netcoreapp3.1\DeleteFromFile.exe
+C:\Rajesh\DeleteFromFile\DeleteFromFile\bin\Debug\netcoreapp3.1\DeleteFromFile.deps.json
+C:\Rajesh\DeleteFromFile\DeleteFromFile\bin\Debug\netcoreapp3.1\DeleteFromFile.runtimeconfig.json
+C:\Rajesh\DeleteFromFile\DeleteFromFile\bin\Debug\netcoreapp3.1\DeleteFromFile.runtimeconfig.dev.json
+C:\Rajesh\DeleteFromFile\DeleteFromFile\bin\Debug\netcoreapp3.1\DeleteFromFile.dll
+C:\Rajesh\DeleteFromFile\DeleteFromFile\bin\Debug\netcoreapp3.1\DeleteFromFile.pdb
+C:\Rajesh\DeleteFromFile\DeleteFromFile\obj\Debug\netcoreapp3.1\DeleteFromFile.csprojAssemblyReference.cache
+C:\Rajesh\DeleteFromFile\DeleteFromFile\obj\Debug\netcoreapp3.1\DeleteFromFile.AssemblyInfoInputs.cache
+C:\Rajesh\DeleteFromFile\DeleteFromFile\obj\Debug\netcoreapp3.1\DeleteFromFile.AssemblyInfo.cs
+C:\Rajesh\DeleteFromFile\DeleteFromFile\obj\Debug\netcoreapp3.1\DeleteFromFile.csproj.CoreCompileInputs.cache
+C:\Rajesh\DeleteFromFile\DeleteFromFile\obj\Debug\netcoreapp3.1\DeleteFromFile.dll
+C:\Rajesh\DeleteFromFile\DeleteFromFile\obj\Debug\netcoreapp3.1\DeleteFromFile.pdb
+C:\Rajesh\DeleteFromFile\DeleteFromFile\obj\Debug\netcoreapp3.1\DeleteFromFile.genruntimeconfig.cache

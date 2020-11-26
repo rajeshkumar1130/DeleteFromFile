@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A542619\\Source\\Repos\\CapitaTest\\DeleteFromFile\\DeleteFromFile.csproj",
+      "projectUniqueName": "C:\\Rajesh\\DeleteFromFile\\DeleteFromFile\\DeleteFromFile.csproj",
       "projectName": "DeleteFromFile",
-      "projectPath": "C:\\Users\\A542619\\Source\\Repos\\CapitaTest\\DeleteFromFile\\DeleteFromFile.csproj",
+      "projectPath": "C:\\Rajesh\\DeleteFromFile\\DeleteFromFile\\DeleteFromFile.csproj",
       "packagesPath": "C:\\Users\\A542619\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A542619\\Source\\Repos\\CapitaTest\\DeleteFromFile\\obj\\",
+      "outputPath": "C:\\Rajesh\\DeleteFromFile\\DeleteFromFile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

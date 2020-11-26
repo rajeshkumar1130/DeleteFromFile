@@ -40,10 +40,11 @@ namespace CapitaTest
 
             watch.Stop();
             Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds} ms");
+
         }
 
         /// <summary>
-        /// Method to delete features specied in FeaturesToDelete.txt file from Features.txt file
+        /// Method to delete features specied in Delete.txt file from Input.txt file
         /// </summary>
         private static void DeleteLines()
         {
@@ -55,12 +56,12 @@ namespace CapitaTest
 
             using (TextWriter textWriter = new StreamWriter(OutputFileName, AppendMode, Encoding.UTF8, BufferSize))
             {
-                foreach (string feature in inputFile)
+                foreach (string line in inputFile)
                 {
                     //Write the feature if it is not in the delete list
-                    if (!deleteList.Contains(feature.Split(',')[0]))
+                    if (!deleteList.Contains(line.Split(',')[0]))
                     {
-                        textWriter.WriteLine(feature);
+                        textWriter.WriteLine(line);
                     }
                 }
             }
